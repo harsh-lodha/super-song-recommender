@@ -1,10 +1,6 @@
-# Postman Express Starter
+# Super song recommender
 
-A Node.js/Express server that serves a webpage and its resources
-
-Remix this project to start your next app!
-
-## Your Project
+Checkout the web-app on https://super-song-recommender.glitch.me/
 
 On the front-end,
 
@@ -18,8 +14,6 @@ On the back-end,
 - your app starts at `server.js`
 - add frameworks and packages in `package.json`
 - safely store app secrets in `.env` (nobody can see this but you and people you invite)
-
-Click `Show` in the header to see your app live. Updates to your code will instantly deploy.
 
 
 ## Made by [Glitch](https://glitch.com/)
